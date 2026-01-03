@@ -1,14 +1,11 @@
 # Alchemy University
 
 This repository contains coursework, exercises, and projects completed
-through Alchemy Universityâ€™s Web3 learning programs.
+as part of Alchemy University’s Web3 programs.
 
-The focus is on practical implementation rather than theory, with
-an emphasis on:
-- JavaScript fundamentals for blockchain development
+Focus areas:
+- JavaScript fundamentals for Web3
 - Solidity smart contracts
-- Ethereum tooling and workflows
-- Testnet deployments and experimentation
+- Ethereum development workflows
 
-Each folder represents a course or module with progressively more
-complex projects.
+This repository is actively maintained as I progress through the curriculum.
